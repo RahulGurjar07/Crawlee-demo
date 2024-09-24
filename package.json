@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "crawlee": "^3.11.4",
+    "playwright": "^1.47.2"
+  },
+  "name": "crawlee-demo",
+  "version": "1.0.0",
+  "description": "exploring new library just for fun",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
